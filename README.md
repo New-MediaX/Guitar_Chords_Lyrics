@@ -6,9 +6,9 @@ this is test app
 
 for 
 
-http:mgr.gr - Guitar Chords
+http:ROCK-CHORDS.COM - Guitar Chords
 
 [Guitar Chords][1]
 
 
-  [1]: http:mgr.gr/en
+  [1]: ROCK-CHORDS.COM/en
